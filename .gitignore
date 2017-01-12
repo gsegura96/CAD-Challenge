@@ -1,5 +1,5 @@
 *.fcstd1
-
+.directory
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
